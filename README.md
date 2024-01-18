@@ -13,4 +13,4 @@
 
 
 sponsors:
-- ![](https://app.dartnode.com/assets/dash/images/brand/favicon.png =20x20) dartnode
+- ![dartnode-w10](https://app.dartnode.com/assets/dash/images/brand/favicon.png)
