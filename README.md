@@ -6,3 +6,11 @@
 
 1.增加支持首字母简拼
 2.增加大小写字母支持
+
+
+
+
+
+
+sponsor list:
+- [](https://app.dartnode.com/assets/dash/images/brand/logo.png)https://app.dartnode.com/assets/dash/images/brand/logo.pngdartnode；
