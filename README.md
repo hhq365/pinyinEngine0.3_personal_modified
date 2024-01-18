@@ -12,5 +12,5 @@
 
 
 
-sponsor list:
-- ![](https://app.dartnode.com/assets/dash/images/brand/logo.png)https://app.dartnode.com/assets/dash/images/brand/logo.pngdartnode；
+sponsors:
+- ![](https://app.dartnode.com/assets/dash/images/brand/favicon.png) dartnode；
