@@ -13,4 +13,4 @@
 
 
 sponsor list:
-- [](https://app.dartnode.com/assets/dash/images/brand/logo.png)https://app.dartnode.com/assets/dash/images/brand/logo.pngdartnode；
+- ![](https://app.dartnode.com/assets/dash/images/brand/logo.png)https://app.dartnode.com/assets/dash/images/brand/logo.pngdartnode；
