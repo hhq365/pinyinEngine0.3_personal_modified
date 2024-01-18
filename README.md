@@ -15,4 +15,5 @@
 
 
 sponsors:
-- <img src=https://app.dartnode.com/assets/dash/images/brand/favicon.png width=30 height=30 /> dartnode
+- <img src=https://app.dartnode.com/assets/dash/images/brand/favicon.png width=30 height=30 /> ![dartnode
+- ](https://dartnode.com)
